@@ -2,6 +2,15 @@
     margin: 0;
     padding: 0;
   }
+
+  .container{
+        width: 970px;
+        height: 1000px;
+        background-color: violet;
+        margin: 0 auto;
+    }
+    
+  }
   
   h1{
       color: orangered;
